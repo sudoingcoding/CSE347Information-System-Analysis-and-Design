@@ -1,1 +1,2 @@
-# CSE347Information-System-Analysis-and-Design
+# CSE347
+Information System Analysis and Design
